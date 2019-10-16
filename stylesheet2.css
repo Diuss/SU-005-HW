@@ -1,0 +1,29 @@
+* {
+    box-sizing: content-box;
+    font-size: 26px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+    }
+
+table {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    border: 10px solid black;
+    
+}
+
+thead {
+    background-color: palevioletred;
+    width: 100%;
+    visibility: collapse; 
+}
+
+.bg {
+    background-color: #334867;
+}
+
+
